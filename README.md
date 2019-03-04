@@ -30,8 +30,7 @@ npm run lint
 
 **一级节点到二级节点的总览图**
 
-![q](C:\Users\Administrator\Pictures\q.PNG)
+
 
 **二级节点到三级节点的详情图**
 
-![q1](C:\Users\Administrator\Pictures\q1.PNG)
